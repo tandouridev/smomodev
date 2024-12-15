@@ -1,3 +1,4 @@
+import { AutoSlider } from "@/components/AutoSlider";
 import { Filter } from "@/components/Filter";
 import { Hero } from "@/components/Hero";
 import { MobileGallery } from "@/components/MobileGallery";
